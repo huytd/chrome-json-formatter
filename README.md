@@ -2,6 +2,8 @@
 
 This is the Flat Design modified version of [callumlocke's JSON Formatter](https://github.com/callumlocke/json-formatter) Chrome Plugin
 
+![](http://i.imgur.com/lVu40v1.png)
+
 ### How to install
 To install it, you need to have Google Chrome:
 - Clone/Download this repo, unzip it to somewhere you can find
